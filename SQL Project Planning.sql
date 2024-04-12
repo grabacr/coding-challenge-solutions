@@ -1,5 +1,5 @@
 /*
-Two different ways to solve the SQL Project Planning problem on HackerRank in ORACLE SQL
+Solving the SQL Project Planning problem on HackerRank in ORACLE SQL
 
 https://www.hackerrank.com/challenges/sql-projects/problem?isFullScreen=true
 
